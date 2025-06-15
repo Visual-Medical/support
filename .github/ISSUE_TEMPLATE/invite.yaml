@@ -1,0 +1,22 @@
+name: Invitation to the GitHub Community Organization
+description: I would like to be part of the visual medical community
+title: "Please invite me to the GitHub Community Organization"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: How did you learn about visual medical? Why do you want to join us? 
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
