@@ -17,6 +17,3 @@ body:
       description: How did you learn about visual medical? Why do you want to join us? 
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: |
