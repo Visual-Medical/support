@@ -17,3 +17,7 @@ body:
       description: How did you learn about visual medical? Why do you want to join us? 
     validations:
       required: false
+    - type: markdown
+    attributes:
+      value: |
+        **Visual Medical - Transforming the future of medical image analysis with the power of technology**
